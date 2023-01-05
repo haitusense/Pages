@@ -1,4 +1,4 @@
-import { hello2 } from 'snippets/yew-view-1208795c4d747228/js/imp.js';
+import { hello2 } from './snippets/yew-view-1208795c4d747228/js/imp.js';
 
 let wasm;
 
